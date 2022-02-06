@@ -1,3 +1,15 @@
+# PERMISSIONED TOKEN FROM https://github.com/scale-it/algo-builder/tree/master/examples/permissioned-token MODIFYING TOKEN AND ACCOUNTS
+
+OWNER : YEWT5M5KZ2OTKW4T6V2FJXTTZOGDLGKGEUXIHCT2OHVLZTBH3KNJOQFEI4
+TOKEN : 69031243
+CLAWBACK ADDRESS: D6MXOGWA3H4I6ERQCRD3QFRV77AJXB6GDAQVTSCZKJT7QJWAXC2AKAMXMA
+CONTROLLER SMART CONTRACT: 69031255
+PERMISSIONED SMART CONTRACT: 69031319
+
+
+
+---------------
+
 # Permissioned token
 
 Permissioned tokens have a mechanism limiting the token usage based on additional requirements. Securities may use the permissioned token mechanism to define complex compliance requirements, such as investor whitelisting and transfer restrictions. For example, only a verified, KYCed users can exchange tokens.
