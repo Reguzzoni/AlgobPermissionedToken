@@ -1,0 +1,4 @@
+#pragma version 4
+// add new permissions contract logic here (eg. KYC)
+int 1
+return
